@@ -1,4 +1,4 @@
-class conversionTools:
+class ConversionTools:
 
     def thread1(self):
         pass
@@ -6,5 +6,5 @@ class conversionTools:
     def thread2(self):
         pass
 
-    def convertData(self, filePath, format):
+    def convert_data(self, file_path, format):
         pass
