@@ -19,7 +19,3 @@
 or
 - bash make.sh
 ````
-### Project description
-````
-Script (and exe) for loading firmware onto devices with stm8, stm32, cc1310 processors
-````
