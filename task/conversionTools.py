@@ -1,5 +1,4 @@
 class conversionTools:
-    pass
 
     def thread1(self):
         pass
